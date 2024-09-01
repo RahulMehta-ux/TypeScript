@@ -24,3 +24,7 @@ tsc fileName.ts // Transcompile File (TS -> JS)
 - Path Intellisense     // autocomplete filenames
 - Prettier              // Formats code for vscode.
 
+Node Packages
+- npm init 
+- lite-server -> npm i lite-server
+
